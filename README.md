@@ -22,3 +22,4 @@ Stratum / Electrum protocol and shell in Java
 ## Test address
 
     1C6JdWXzAS8yCNfZNtK5uwSYQyZ5JL9LbC
+    
